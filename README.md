@@ -167,4 +167,5 @@ DL-Final-Solis-Huayanay-Epifania-Angelica/
     ├── matriz_confusion.png
     ├── curvas_entrenamiento.png
     └── distribucion_clases.png
+└── ppt/proyecto_final_SOLIS.pptx  
 ```
