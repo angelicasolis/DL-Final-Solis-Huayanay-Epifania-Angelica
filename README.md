@@ -169,5 +169,3 @@ DL-Final-Solis-Huayanay-Epifania-Angelica/
     └── distribucion_clases.png
 └── ppt/proyecto_final_SOLIS.pptx  
 ```
-
-## Video https://www.youtube.com/watch?v=8cLMEd4El34
